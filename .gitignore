@@ -9,12 +9,9 @@ cmake-build-debug/Testing/Temporary/LastTest.log
 
 # Ignore specific files and directories in cmake-build-debug
 cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-74d825528b9c2413b3f1.json
-cmake-build-debug/.cmake/api/v1/reply/index-2024-01-18T14-32-40-0649.json
 cmake-build-debug/.cmake/api/v1/reply/target-Problem_Solving_2024_2025_problem1-Debug-d0c681179e6c0f3e1ee2.json
 cmake-build-debug/.cmake/api/v1/reply/target-Problem_Solving_2024_2025_problem2-Debug-e2e44098e7deb4c617ce.json
-cmake-build-debug/.ninja_deps
-cmake-build-debug/.ninja_log
+
 cmake-build-debug/CMakeFiles/TargetDirectories.txt
 cmake-build-debug/CMakeFiles/rules.ninja
-cmake-build-debug/Testing/Temporary/LastTest.log
 cmake-build-debug/build.ninja
