@@ -1,3 +1,4 @@
-/home/amani/CLionProjects/Problem-Solving-2024-2025/cmake-build-debug/CMakeFiles/Problem_Solving_2024_2025.dir
+/home/amani/CLionProjects/Problem-Solving-2024-2025/cmake-build-debug/CMakeFiles/Problem_Solving_2024_2025_problem1.dir
+/home/amani/CLionProjects/Problem-Solving-2024-2025/cmake-build-debug/CMakeFiles/Problem_Solving_2024_2025_problem2.dir
 /home/amani/CLionProjects/Problem-Solving-2024-2025/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/amani/CLionProjects/Problem-Solving-2024-2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,5 +1,11 @@
 //
 // Created by amani on 12/01/24.
 //
+#include <iostream>
 
-#include "problem1.h"
+using namespace std;
+int main() {
+    cout << "Hello, World! from prob1" << endl;
+    return 0;
+
+}

@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Problem_Solving_2024_2025"
+			"path" : "Problem_Solving_2024_2025_problem2"
 		}
 	],
 	"backtrace" : 1,
@@ -25,7 +25,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 8,
+				"line" : 11,
 				"parent" : 0
 			},
 			{
@@ -67,7 +67,7 @@
 			]
 		}
 	],
-	"id" : "Problem_Solving_2024_2025::@6890427a1f51a3e7e1df",
+	"id" : "Problem_Solving_2024_2025_problem2::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -83,8 +83,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Problem_Solving_2024_2025",
-	"nameOnDisk" : "Problem_Solving_2024_2025",
+	"name" : "Problem_Solving_2024_2025_problem2",
+	"nameOnDisk" : "Problem_Solving_2024_2025_problem2",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,20 +98,6 @@
 			[
 				0
 			]
-		},
-		{
-			"name" : "Header Files",
-			"sourceIndexes" : 
-			[
-				1
-			]
-		},
-		{
-			"name" : "",
-			"sourceIndexes" : 
-			[
-				2
-			]
 		}
 	],
 	"sources" : 
@@ -119,18 +105,8 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Problem Solving Betounsi in C++/France_IOI/Level3/problem1.cpp",
+			"path" : "Problem Solving Betounsi in C++/France_IOI/Level3/problem2.cpp",
 			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "Problem Solving Betounsi in C++/France_IOI/Level3/problem1.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"path" : "README.md",
-			"sourceGroupIndex" : 2
 		}
 	],
 	"type" : "EXECUTABLE"
