@@ -12,3 +12,5 @@ add_executable(FrancIOI_problem2
         "Problem Solving Betounsi in C++/France_IOI/Level3/problem2.cpp")
 add_executable(FrancIOI_problem3
         "Problem Solving Betounsi in C++/France_IOI/Level3/problem3.cpp")
+add_executable(FrancIOI_problem4
+        "Problem Solving Betounsi in C++/France_IOI/Level3/problem4.cpp")
