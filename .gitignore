@@ -1,4 +1,9 @@
 # CLion files
 .idea/
 cmake-build-debug/
+# Ignore specific files
+cmake-build-debug/.cmake/api/v1/reply/index-2024-01-18T14-32-40-0649.json
+cmake-build-debug/.ninja_deps
+cmake-build-debug/.ninja_log
+cmake-build-debug/Testing/Temporary/LastTest.log
 
