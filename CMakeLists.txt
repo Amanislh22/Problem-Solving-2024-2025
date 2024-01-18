@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories("Problem Solving Betounsi in C++/France_IOI/Level3")
 
 add_executable(FrancIOI_problem1
-        "Problem Solving Betounsi in C++/France_IOI/Level3/problem1.cpp")
+        "Problem Solving Betounsi in C++/France_IOI/Level3/problem1_my_solution.cpp")
 
 add_executable(FrancIOI_problem2
         "Problem Solving Betounsi in C++/France_IOI/Level3/problem2.cpp")
