@@ -12,7 +12,11 @@ add_executable(FrancIOI_problem1_corr
 
 
 add_executable(FrancIOI_problem2
-        "Problem Solving Betounsi in C++/France_IOI/Level3/problem2.cpp")
+        "Problem Solving Betounsi in C++/France_IOI/Level3/problem2_My_solution.cpp")
+add_executable(FrancIOI_problem2_corr
+        "Problem Solving Betounsi in C++/France_IOI/Level3/problem2_correction.cpp")
+
+
 add_executable(FrancIOI_problem3
         "Problem Solving Betounsi in C++/France_IOI/Level3/problem3.cpp")
 add_executable(FrancIOI_problem4
