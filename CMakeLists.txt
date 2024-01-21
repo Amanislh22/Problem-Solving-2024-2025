@@ -23,7 +23,8 @@ add_executable(FrancIOI_problem3_corr
 
 add_executable(FrancIOI_problem4
         "Problem Solving Betounsi in C++/France_IOI/Level3/problem4.cpp")
-
+add_executable(FrancIOI_astuces
+        "Problem Solving Betounsi in C++/France_IOI/Level3/Astuces_FL3.cpp")
 
 
 #CodeForces

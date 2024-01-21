@@ -23,7 +23,7 @@ int k,i;
 
 for ( int l=0;l<nb;l++){
     cout<<"enter the title number "<<l+1;
-    cin>>name;
+    //cin>>name;
     cin.ignore();
     getline(cin,name);
     name= toMaj(name);
