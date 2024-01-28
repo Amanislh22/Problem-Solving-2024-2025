@@ -22,7 +22,11 @@ add_executable(FrancIOI_problem3_corr
         "Problem Solving Betounsi in C++/France_IOI/Level3/problem3_correction.cpp")
 
 add_executable(FrancIOI_problem4
-        "Problem Solving Betounsi in C++/France_IOI/Level3/problem4.cpp")
+        "Problem Solving Betounsi in C++/France_IOI/Level3/Inversion_dic_Mysolution.cpp")
+add_executable(FrancIOI_problem4_corr
+        "Problem Solving Betounsi in C++/France_IOI/Level3/Inversion_dic_Correction.cpp")
+
+
 add_executable(FrancIOI_astuces
         "Problem Solving Betounsi in C++/France_IOI/Level3/Astuces_FL3.cpp")
 
