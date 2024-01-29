@@ -7,24 +7,29 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories("Problem Solving Betounsi in C++/France_IOI/Level3")
 
 add_executable(FrancIOI_problem1
-        "Problem Solving Betounsi in C++/France_IOI/Level3/problem1_my_solution.cpp")
+        "Problem Solving Betounsi in C++/France_IOI/Level3/NbAmour_my_solution.cpp")
 add_executable(FrancIOI_problem1_corr
-        "Problem Solving Betounsi in C++/France_IOI/Level3/problem1_correction.cpp")
+        "Problem Solving Betounsi in C++/France_IOI/Level3/NbAmour_correction.cpp")
 
 add_executable(FrancIOI_problem2
-        "Problem Solving Betounsi in C++/France_IOI/Level3/problem2_My_solution.cpp")
+        "Problem Solving Betounsi in C++/France_IOI/Level3/TitrePalindr_My_solution.cpp")
 add_executable(FrancIOI_problem2_corr
-        "Problem Solving Betounsi in C++/France_IOI/Level3/problem2_correction.cpp")
+        "Problem Solving Betounsi in C++/France_IOI/Level3/TitrePalindr_correction.cpp")
 
 add_executable(FrancIOI_problem3
-        "Problem Solving Betounsi in C++/France_IOI/Level3/problem3_My_solution.cpp")
+        "Problem Solving Betounsi in C++/France_IOI/Level3/FreqDapp_My_solution.cpp")
 add_executable(FrancIOI_problem3_corr
-        "Problem Solving Betounsi in C++/France_IOI/Level3/problem3_correction.cpp")
+        "Problem Solving Betounsi in C++/France_IOI/Level3/FreqDapp_correction.cpp")
 
 add_executable(FrancIOI_problem4
         "Problem Solving Betounsi in C++/France_IOI/Level3/Inversion_dic_Mysolution.cpp")
 add_executable(FrancIOI_problem4_corr
         "Problem Solving Betounsi in C++/France_IOI/Level3/Inversion_dic_Correction.cpp")
+
+add_executable(FrancIOI_problem5
+        "Problem Solving Betounsi in C++/France_IOI/Level3/acronyme_Mysolution.cpp")
+add_executable(FrancIOI_problem5_corr
+        "Problem Solving Betounsi in C++/France_IOI/Level3/acronyme_Correction.cpp")
 
 
 add_executable(FrancIOI_astuces
